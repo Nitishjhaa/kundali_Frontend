@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Kundali from './components/kundali'
+import MainPage from './components/PopUp_Page'
  
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Kundali /> 
+      <MainPage />
     </>
   )
 }
